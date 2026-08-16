@@ -11,7 +11,7 @@
 This is a sample PowerBI project created utilizing HR data provided by my PowerBI Certification course. The primary purpose of this dashboard is to visualize and display trends with employee retention & attrition between departments, age, education, etc.
 
 ## 📷 Dashboard Preview
-![Primary Dashboard](Images/Main_Page.png)
+![Primary Dashboard](Images/Main_Page.PNG)
 
 ---
 
@@ -20,7 +20,7 @@ This is a sample PowerBI project created utilizing HR data provided by my PowerB
 * **Data Modeling:** Implemented a pure **Star Schema** architecture consisting of 1 Fact table and 3 Dimension tables (HR_Data, Departments, Education, Jobs).
 
 ## 📐 Data Architecture (Model View)
-![Star Schema Relationships](Images/Data_Model.png)
+![Star Schema Relationships](Images/Data_Model.PNG)
 
 ---
 
